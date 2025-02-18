@@ -1,0 +1,9 @@
+site_name: Pruebas1
+site_url: https://SergioCortes22.github.com/Pruebas1/
+docs_dir: 'docs_src'
+site_dir: 'docs'
+
+nav:
+ - Home: README.md
+
+theme: readthedocs
